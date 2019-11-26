@@ -10,3 +10,15 @@
 2. [SingleCellThoughts](https://github.com/LTLA/SingleCellThoughts), [SingleCellThoughts](https://ltla.github.io/SingleCellThoughts/)
 3. [Single-cell exploratory data analysis for RNA-Seq](https://github.com/logstar/scedar)
 4. [Single-cell RNA sequencing (Cell Ranger)](https://bioinformatics.uconn.edu/single-cell-rna-sequencing-cell-ranger-2/#)
+
+## Notable Labs' website
+1. [Gilad's Lab](https://giladlab.uchicago.edu/)
+2. 
+
+## Useful R-Packages
+1. scRNAseq
+2. scater
+3. scran
+4. seurat
+5. MAST
+6. NMF
