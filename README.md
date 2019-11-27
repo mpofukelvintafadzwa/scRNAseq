@@ -39,7 +39,8 @@
 
 
 ---
-* web.archive.org version backup available.
+
+<sup>*web.archive.org version backup available.</sup>
 
 ## Authors and Contributors
 - Rahul Bhadani ( rahulbhadani@email.arizona.edu)
