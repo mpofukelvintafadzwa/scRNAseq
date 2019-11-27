@@ -42,5 +42,5 @@
 
 <sup>*web.archive.org version backup available.</sup>
 
-## Authors and Contributors
+## Curator
 - Rahul Bhadani ( rahulbhadani@email.arizona.edu)
