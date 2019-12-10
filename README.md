@@ -16,13 +16,18 @@
 4. [Single-cell RNA sequencing (Cell Ranger)](https://bioinformatics.uconn.edu/single-cell-rna-sequencing-cell-ranger-2/#)
 5. [Nikolay Oskolkov](https://github.com/NikolayOskolkov)
 6. [Awesome Single Cell](https://github.com/seandavi/awesome-single-cell)
-7. [
+7. [scScope](https://github.com/AltschulerWu-Lab/scScope)
+8. [Dendrosplit](https://github.com/jessemzhang/dendrosplit)
+9. [Clustering cells from single cell RNA seq assays](https://github.com/govinda-kamath/clustering_on_transcript_compatibility_counts)
 
 ## Notable Labs' website
 1. [Gilad's Lab](https://giladlab.uchicago.edu/)
 2. [Kellis Lab at MIT*](http://compbio.mit.edu/)
 3. [Broad Institute](https://www.broadinstitute.org/)
 4. [Marioni group*](https://www.ebi.ac.uk/research/marioni)
+
+## Resource Portals
+1. [SIB ExPASy Bioformatics Resources Portal](https://www.expasy.org/)
 
 ## Useful R-Packages
 1. scRNAseq
@@ -32,8 +37,10 @@
 5. MAST
 6. NMF
 
-## Python for Single-Cell RNA-Seq
-1. Scanpy:https://scanpy.readthedocs.io/en/stable/tutorials.html
+## Python Packages
+1. [Biopython](https://biopython.org/)
+2. [Scanpy](https://scanpy.readthedocs.io/en/stable/tutorials.html)
+
 
 ## YouTube Videos
 1. [StatQuest: A gentle introduction to RNA-seq](https://www.youtube.com/watch?v=tlf6wYJrwKY)
@@ -49,6 +56,10 @@
 6. [Benchmarking single cell RNA-sequencing analysis pipelines using mixture control experiments](https://www.nature.com/articles/s41592-019-0425-8)
 7. [Single-cell RNA-seq denoising using a deep count autoencoder*](https://www.nature.com/articles/s41467-018-07931-2.pdf)
 8. [12 Grand Challenges in Single-Cell Data Science*](https://peerj.com/preprints/27885.pdf)
+9. [An interpretable framework for clustering single-cell RNA-Seq datasets](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2092-7)
+
+## Theses and Dissertations
+1. [Reinthinking Single-Cell RNA-Seq Analysis*](https://stacks.stanford.edu/file/druid:jr605ws6765/Stanford_PhD_Thesis-augmented.pdf)
 
 ## Datasets
 
