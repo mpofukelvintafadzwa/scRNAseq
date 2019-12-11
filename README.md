@@ -30,12 +30,13 @@
 1. [SIB ExPASy Bioformatics Resources Portal](https://www.expasy.org/)
 
 ## Useful R-Packages
-1. scRNAseq
+1. scRNAseq: The scRNAseq package provides convenient access to several publicly available data sets in the form of SingleCellExperiment objects. The focus of this package is to capture datasets that are not easily read into R with a one-liner from, e.g., `read.csv()`.
 2. scater
 3. scran
 4. seurat
 5. MAST
 6. NMF
+7. ggfortify
 
 ## Python Packages
 1. [Biopython](https://biopython.org/)
@@ -57,6 +58,7 @@
 7. [Single-cell RNA-seq denoising using a deep count autoencoder*](https://www.nature.com/articles/s41467-018-07931-2.pdf)
 8. [12 Grand Challenges in Single-Cell Data Science*](https://peerj.com/preprints/27885.pdf)
 9. [An interpretable framework for clustering single-cell RNA-Seq datasets](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2092-7)
+10. [Transcriptomic characterization of 20 organs and tissues from mouse at single cell resolution creates a Tabula Muris](https://www.biorxiv.org/content/10.1101/237446v1)
 
 ## Theses and Dissertations
 1. [Reinthinking Single-Cell RNA-Seq Analysis*](https://stacks.stanford.edu/file/druid:jr605ws6765/Stanford_PhD_Thesis-augmented.pdf)
