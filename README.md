@@ -8,6 +8,7 @@
 5. [MIT's 6.047/6.878  Machine Learning in Genomics*](https://stellar.mit.edu/S/course/6/fa19/6.047/materials.html)
 6. [Deep Learning for Single Cell Biology](https://towardsdatascience.com/deep-learning-for-single-cell-biology-935d45064438)
 7. [Seurat - Guided Clustering Tutorial*](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
+8. [STAT 555: Statistical Analysis of Genomics Data*](https://newonlinecourses.science.psu.edu/stat555)
 
 ## Important GitHub profiles and repositories
 1. [hemberg-lab](https://github.com/hemberg-lab)
@@ -25,6 +26,7 @@
 2. [Kellis Lab at MIT*](http://compbio.mit.edu/)
 3. [Broad Institute](https://www.broadinstitute.org/)
 4. [Marioni group*](https://www.ebi.ac.uk/research/marioni)
+5. [Valentine Svensson](http://www.nxn.se/)
 
 ## Resource Portals
 1. [SIB ExPASy Bioformatics Resources Portal](https://www.expasy.org/)
@@ -37,10 +39,12 @@
 5. MAST
 6. NMF
 7. ggfortify
+8. scran
 
 ## Python Packages
 1. [Biopython](https://biopython.org/)
 2. [Scanpy](https://scanpy.readthedocs.io/en/stable/tutorials.html)
+3. [Scedar](https://github.com/logstar/scedar)
 
 
 ## YouTube Videos
