@@ -42,9 +42,15 @@ colnames(molecules) <- paste("10X_P4_5", cellbarcodes[,1], sep="_")
 At this point, we want to store sparse matrix `molecules` as a csv file
 
 ```R
-moleculesdata = as.molecules.frame(as.matrix(molecules))
+moleculesdata = as.data.frame(as.matrix(molecules))
 rownames(moleculesdata) <- rownames(molecules)
 colnames(moleculesdata) <- colnames(molecules)
+```
+
+We can save `moleculesdata` as csvn file in the following manner:
+
+```R
+write.csv(moleculesdata, paste(path, "/", "moleculatesdata.csv", sep=""))
 ```
 
 
@@ -153,6 +159,7 @@ Output:
 
 
 --
+
 <sup>*[web.archive.org](web.archive.org) version backup available.</sup>
 
 ## Author
