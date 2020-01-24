@@ -47,6 +47,11 @@ rownames(moleculesdata) <- rownames(molecules)
 colnames(moleculesdata) <- colnames(molecules)
 ```
 
+We can save `moleculesdata` as csvn file in the following manner:
+
+```R
+write.csv(moleculesdata, paste(path, "/", "moleculatesdata.csv", sep=""))
+```
 
 
 Most of the time, we have only .mtx sparse matrix file that contains unique molecular identified (UMI) coun and .tsv file that has columns (containing cell names) and rows (containing gene names) as is the case with [PBMC3](https://s3-us-west-2.amazonaws.com/10x.files/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz) dataset. In that scenario, only above code is sufficient to read data. However, if we have datasets divided in .different pieces with annotations and metadata detailing the experiment under study, we might want to do something more.
