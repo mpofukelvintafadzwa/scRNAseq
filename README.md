@@ -68,8 +68,9 @@
 1. [Reinthinking Single-Cell RNA-Seq Analysis*](https://stacks.stanford.edu/file/druid:jr605ws6765/Stanford_PhD_Thesis-augmented.pdf)
 
 ## Datasets
-
-
+1. [Single Cell Portal - Broad Institute](https://singlecell.broadinstitute.org/single_cell/)
+2. Tung dataset (2017)
+3. Treutlein dataset(2014)
 
 
 ---
