@@ -46,6 +46,8 @@
 2. [Scanpy](https://scanpy.readthedocs.io/en/stable/tutorials.html)
 3. [Scedar](https://github.com/logstar/scedar)
 
+## MATLAB Toolboxes/Packages
+1. [scGEAToolbox](https://github.com/jamesjcai/scGEAToolbox)
 
 ## YouTube Videos
 1. [StatQuest: A gentle introduction to RNA-seq](https://www.youtube.com/watch?v=tlf6wYJrwKY)
