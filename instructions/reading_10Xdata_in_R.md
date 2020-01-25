@@ -29,8 +29,8 @@ genefile = "genes.tsv"
 filepath = paste(path, "/", genefile, sep = "")
 genenames <- read.table(filepath)
 
-genefile = "matrix.mtx"
-filepath = paste(path, "/", genefile, sep = "")
+UMIfile = "matrix.mtx"
+filepath = paste(path, "/", UMIfile, sep = "")
 
 # readMM is used for reading sparse matrix file
 molecules <- readMM(filepath)
