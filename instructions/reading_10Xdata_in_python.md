@@ -66,3 +66,5 @@ Now we can save the dataframe as a csv file for further processing. Note we conv
 ```python
 count.to_csv(path + '/moleculercount.csv', quoting=csv.QUOTE_NONE)
 ```
+
+Complete R script for this instruction can be download from https://github.com/rahulbhadani/scRNAseq/blob/master/python/read10X.py
