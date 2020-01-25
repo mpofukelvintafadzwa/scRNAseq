@@ -160,6 +160,7 @@ Output:
 10X_P4_5_AAACGGGCAGGACCCT-1 3_8_M          kidney tubule cell
 ```
 
+Complete R script for this instruction can be download from https://github.com/rahulbhadani/scRNAseq/blob/master/r-script/read_10X.r
 
 --
 
