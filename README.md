@@ -65,6 +65,7 @@
 8. [12 Grand Challenges in Single-Cell Data Science*](https://peerj.com/preprints/27885.pdf)
 9. [An interpretable framework for clustering single-cell RNA-Seq datasets](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2092-7)
 10. [Transcriptomic characterization of 20 organs and tissues from mouse at single cell resolution creates a Tabula Muris](https://www.biorxiv.org/content/10.1101/237446v1)
+11. [Observation weights unlock bulk RNA-seq tools for zero inflation and single-cell applications*+](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1406-4)
 
 ## Theses and Dissertations
 1. [Reinthinking Single-Cell RNA-Seq Analysis*](https://stacks.stanford.edu/file/druid:jr605ws6765/Stanford_PhD_Thesis-augmented.pdf)
