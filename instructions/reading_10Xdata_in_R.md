@@ -162,6 +162,13 @@ Output:
 
 Complete R script for this instruction can be download from https://github.com/rahulbhadani/scRNAseq/blob/master/r-script/read_10X.r
 
+## Other ways to read 10X data
+
+Data from 10X Genomics experiments can be read in using the `read10xCounts` function from the `DropletUtils` package.
+This automatically generates a `SingleCellExperiment` object with a sparse matrix. See the documentation of the package for more details.
+
+
+
 --
 
 <sup>*[web.archive.org](web.archive.org) version backup available.</sup>
